@@ -1,4 +1,4 @@
-Hi I'm Gemcila!
+#Hi I'm Gemcila!
 
 I've just started my journey in coding, currently involved in the Master coding bootcamp @wearecodenation
 
