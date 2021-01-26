@@ -1,4 +1,6 @@
-#Hi I'm Gemcila!
+![roma](https://user-images.githubusercontent.com/77974066/105843449-954f6280-5f8c-11eb-8411-e0665da9db41.jpg)
+
+## Hi I'm Gemcila!
 
 I've just started my journey in coding, currently involved in the Master coding bootcamp @wearecodenation
 
