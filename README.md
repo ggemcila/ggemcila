@@ -2,11 +2,10 @@
 
 ## Hi I'm Gemcila!
 
-I've just started my journey in coding, currently involved in the Master coding bootcamp @wearecodenation
+I've finished Master coding bootcamp at Codenation and looking forward to start my carrier as a Junior Software Developer
 
-- 🔭 I’m currently working on getting the most of the 12 weeks bootcamp at Code Nation 
-- 🌱 I’m currently learning Javascript, HTML, CSS, Git
-- 👯 I’m looking to develop my skills in coding and setting the foundation for a new carrier path
+- 🔭 I’m currently working on improving my skills as a web developer
+- 🌱 I’m learning Javascript, HTML, CSS, Node.js, React.js, MERN fullstack, Python, Django, MongoDB, MySQL, Git 
 - 📫 How to reach me: [ggemcila] (github.com/ggemcila) 
 
 
