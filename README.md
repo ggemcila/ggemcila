@@ -4,8 +4,8 @@
 
 I've finished Master coding bootcamp at Codenation and looking forward to start my carrier as a Junior Software Developer
 
-- 🔭 I’m currently working on improving my skills as a web developer
-- 🌱 I’m learning Javascript, HTML, CSS, Node.js, React.js, MERN fullstack, Python, Django, MongoDB, MySQL, Git 
+- 🔭 I’m currently working on improving my skills as a Web Developer
+- 🌱 I’m have experience in Javascript, HTML, CSS, Node JS, React JS, Python, Django, MongoDB, MySQL, Git 
 - 📫 How to reach me: [ggemcila] (github.com/ggemcila) 
 
 
